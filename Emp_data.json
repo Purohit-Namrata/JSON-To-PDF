@@ -1,0 +1,30 @@
+{
+    "employees": {
+      "employee": [
+        {
+          "id": "1",
+          "firstName": "Namrata",
+          "lastName": "Purohit",
+          "contactno":"1234567899",
+          "email":"namrata@gmail.com",
+          "address":"bangalore"
+        },
+        {
+          "id": "2",
+          "firstName": "Rajat",
+          "lastName": "Mishra",
+          "contactno":"1234567899",
+          "email":"rajat@gmail.com",
+          "address":"mumbai"
+        },
+        {
+          "id": "3",
+          "firstName": "Manali",
+          "lastName": "Furtado",
+          "contactno":"1234567899",
+          "email":"manali@gmail.com",
+          "address":"mumbai"
+        }
+      ]
+    }
+}
